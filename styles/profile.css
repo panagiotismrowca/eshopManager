@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Jura:wght@700&display=swap");
+
+table{
+  padding: 24px;
+}
+td{
+  padding: 12px;
+}
+
+.editProfile{
+  display: none;
+}
