@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <script src="bebona.js" defer></script>
-    <link rel="stylesheet" href="../styles/main.css">
-    <link rel="stylesheet" href="../styles/profile.css">
-  </head>
-  <body>
+
     <?php include 'header.php'; 
     if (isset($_COOKIE["uId"])) {
       $username = $_COOKIE["uId"];

@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <script src="../script.js" defer></script>
-    <link rel="stylesheet" href="../styles/main.css">
-    <link rel="stylesheet" href="../styles/auth.css">
-  </head>
-<body>
+
+
   <?php ini_set('display_errors', 0);
       include 'connection_db.php';
       include 'header.php';
